@@ -5,8 +5,8 @@ const path = require('path');
 module.exports = {
   entry: './src/index.tsx',
   output: {
-    filename: 'DecreaseVolumeOnSpeak.js',
-    library: 'DecreaseVolumeOnSpeak',
+    filename: 'BbbPluginDecreaseVolumeOnSpeak.js',
+    library: 'BbbPluginDecreaseVolumeOnSpeak',
     libraryTarget: 'umd',
     publicPath: '/',
     globalObject: 'this',
