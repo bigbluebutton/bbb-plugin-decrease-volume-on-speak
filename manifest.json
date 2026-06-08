@@ -1,7 +1,7 @@
 {
   "requiredSdkVersion": "~0.0.59",
-  "name": "DecreaseVolumeOnSpeak",
-  "version": "0.1.1",
-  "javascriptEntrypointUrl": "DecreaseVolumeOnSpeak.js",
+  "name": "BbbPluginDecreaseVolumeOnSpeak",
+  "version": "0.0.1",
+  "javascriptEntrypointUrl": "BbbPluginDecreaseVolumeOnSpeak.js",
   "localesBaseUrl": "https://cdn.domain.com/pluginabc/"
 }

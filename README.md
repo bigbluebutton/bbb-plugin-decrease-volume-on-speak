@@ -10,12 +10,12 @@ This plugin is one of the official bbb plugins. It basically decreases the exter
 To build the plugin for production use, follow these steps:
 
 ```bash
-cd $HOME/src/plugin-decrease-volume-on-speak
+cd $HOME/src/bbb-plugin-decrease-volume-on-speak
 npm ci
 npm run build-bundle
 ```
 
-The above commands will generate the `dist` folder, containing the bundled JavaScript file named `DecreaseVolumeOnSpeak.js`. This file can be hosted on any HTTPS server along with its `manifest.json`.
+The above commands will generate the `dist` folder, containing the bundled JavaScript file named `BbbPluginDecreaseVolumeOnSpeak.js`. This file can be hosted on any HTTPS server along with its `manifest.json`.
 
 If you install the plugin separated from the manifest, remember to change the `javascriptEntrypointUrl` in the `manifest.json` to the correct endpoint.
 
