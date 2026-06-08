@@ -10,7 +10,7 @@ This plugin is one of the official bbb plugins. It basically decreases the exter
 To build the plugin for production use, follow these steps:
 
 ```bash
-cd $HOME/src/plugin-decrease-volume-on-speak
+cd $HOME/src/bbb-plugin-decrease-volume-on-speak
 npm ci
 npm run build-bundle
 ```
