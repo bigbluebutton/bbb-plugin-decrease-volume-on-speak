@@ -1,5 +1,5 @@
 {
-  "requiredSdkVersion": "~0.0.59",
+  "requiredSdkVersion": "^0.1.2",
   "name": "DecreaseVolumeOnSpeak",
   "version": "0.1.1",
   "javascriptEntrypointUrl": "DecreaseVolumeOnSpeak.js",
